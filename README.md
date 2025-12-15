@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Data Engineering
+- 🌱 I’m currently learning CS
 - 📫 How to reach me: jmchoi4u@gmail.com
 
 <!--
