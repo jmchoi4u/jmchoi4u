@@ -1,6 +1,8 @@
 ## Hi there 👋
 - 🌱 I’m currently learning CS
+- Member of Mensa Korea
 - 📫 How to reach me: jmchoi4u@gmail.com
+
 
 <!--
 **jmchoi4u/jmchoi4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
